@@ -1,0 +1,3 @@
+cd "文件目录”
+dir
+cl /d1 reportSingleClassLayoutsheeptuo 源.cpp //sheeptuo为类名 源cpp为文件名
